@@ -36,7 +36,7 @@ Saya memiliki minat pada :<br>
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9](https://open.spotify.com/user/31y4pyazut7mkrzgwxxz5t6szb2u))
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31y4pyazut7mkrzgwxxz5t6szb2u)
 <br/>
 ---
 
