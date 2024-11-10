@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Nama saya **FauzanWahyuM**.<br>
+My name is **FauzanWahyuM**.<br>
 
-Saya adalah seorang Mahasiswa di Telkom University Purwokerto.<br>
+I am a student at Telkom University Purwokerto.<br>
 
-Saya memiliki minat pada :<br>
+I have an interest in:<br>
 
 - 🔭 **Web Development.**<br>
 - 🌱 **Cloud Computing.**<br>
