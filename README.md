@@ -42,6 +42,7 @@ I have an interest in:<br>
 <a href="https://getbootstrap.com/" target="_blank">
   <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
 </a>
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
@@ -50,13 +51,38 @@ I have an interest in:<br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="26px"/>
+<img align="left" alt="Visual Studio 2022" width="26px" src="https://img.icons8.com/color/48/visual-studio.png" />
 
-<br />
+
 <br />
 
 ---
 
+### 📊 Github Stats
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FauzanWahyuM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FauzanWahyuM&layout=compact&theme=algolia"/>
+</p>
+
+---
+
+### 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FauzanWahyuM&theme=algolia&hide_border=true" />
+</p>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
 
 ### Now Playing 🎧
 
@@ -64,15 +90,11 @@ I have an interest in:<br>
 <br/>
 ---
 
+⭐️ Keep building. Keep learning. Keep growing.
 
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/FauzanWahyuM">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FauzanWahyuM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FauzanWahyuM&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
+
+
 
 
 
