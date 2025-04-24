@@ -44,16 +44,23 @@ I have an interest in:<br>
 </a>
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+
 <br />
 <br />
 
 ### Softwares:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="26px"/>
-<img align="left" alt="Visual Studio 2022" width="26px" src="https://img.icons8.com/color/48/visual-studio.png" />
-
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; width: 100%;">
+  <!-- Logo dengan margin manual -->
+  <img alt="Visual Studio Code" width="26px" style="margin-right: 20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="Photoshop" width="26px" style="margin-right: 20px;" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true" />
+  <img alt="NetBeans" width="26px" style="margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
+  <img alt="Visual Studio 2022" width="26px" style="margin-right: 20px;" src="https://img.icons8.com/color/48/visual-studio.png" />
+  <img alt="Cisco" width="26px" style="margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" />
+  <img alt="Android Studio" width="26px" style="margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" />
+  <img alt="Google Cloud" height="26px" style="margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" />
+  <img alt="Azure" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" />
+</div>
 
 <br />
 
