@@ -10,7 +10,7 @@ Software Engineering graduate from Universitas Telkom (Rekayasa Perangkat Lunak)
 
 - 🔭 Currently building **LMS Batik**
 - 🌱 Learning Machine Learning & Cloud Computing
-- 🎓 B.Eng. in Software Engineering — Universitas Telkom
+- 🎓 S.Kom (Software Engineering) — Universitas Telkom
 - 💼 Open to: Web Developer · DevOps · Full-stack Engineer · IT Staff
 - 📄 [View CV](https://drive.google.com/file/d/1tU4kqO_f04HpRHK9AQFs3k_WOK-uohWw/view?usp=sharing)
 
