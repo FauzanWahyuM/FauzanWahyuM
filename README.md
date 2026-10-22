@@ -47,5 +47,5 @@ Web application exploring cryptography concepts and implementations, built with 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fauzanwahyumubarak@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzan-wahyu-mubarak-75ba56249/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://web-porto-docker-vqu2.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portofolio-fauzan-wahyu-m.vercel.app/)
 [![CV](https://img.shields.io/badge/View%20CV-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tU4kqO_f04HpRHK9AQFs3k_WOK-uohWw/view?usp=sharing)
